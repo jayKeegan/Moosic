@@ -4,7 +4,7 @@ import com.kaaz.configuration.ConfigurationOption;
 
 public class Config {
     @ConfigurationOption
-    public static String discord_token = "your-discord-token";
+    public static String discord_token = "Nzg0OTU5MTIxNjMxODcxMDE2.X8w4Jg.Y03TF1zNR0xjx671dCm6bclvXVw";
 
     @ConfigurationOption
     public static String command_prefix = "!";
