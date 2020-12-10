@@ -14,4 +14,4 @@ public class Config {
 
     @ConfigurationOption
     public static String voice_channel_id = "channel-id";
-}
+]
